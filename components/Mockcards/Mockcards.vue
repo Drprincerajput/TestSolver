@@ -3,12 +3,11 @@
     <div>
       <div>
         <b-card-group class="mt-1" deck>
-          <b-card bg-variant="dark" text-variant="light" title="Primary" class="text-center">
-            <b-card-text>
-              Lorem ipsum dolor sit amet, consectetur adipiscing
-              elit.
-            </b-card-text>
-            <b-button href="#" variant="primary">Mock Test</b-button>
+          <b-card bg-variant="dark" text-variant="light" title="Mock-Test" class="text-center">
+            <b-card-text>Mock Free</b-card-text>
+            <b-button variant="outline-success">
+              <nuxt-link to="/pages/Instruction">Start</nuxt-link>
+            </b-button>
           </b-card>
         </b-card-group>
       </div>
