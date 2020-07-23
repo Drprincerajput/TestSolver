@@ -1,12 +1,7 @@
 <template>
   <div>
-    <Navbar />
-
-    <Cards />
-
-    <Guide />
-
-    <Footer />
+    <h4>hello from test page</h4>
+    <TestComponent />
   </div>
 </template>
 
@@ -14,5 +9,5 @@
 export default {};
 </script>
 
-<style>
+<style scoped>
 </style>

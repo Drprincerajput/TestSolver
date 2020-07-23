@@ -1,12 +1,6 @@
 <template>
   <div>
-    <Navbar />
-
-    <Cards />
-
-    <Guide />
-
-    <Footer />
+    <h6>hello compo</h6>
   </div>
 </template>
 
@@ -14,5 +8,5 @@
 export default {};
 </script>
 
-<style>
+<style lang="scss" scoped>
 </style>
